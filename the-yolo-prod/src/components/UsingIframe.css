@@ -1,0 +1,7 @@
+
+.fullscreen-iframe {
+    width: 100%;
+    height: 100vh;
+    border: none; /* Removes the border around the iframe */
+    overflow: hidden; /* Hides the scrollbar */
+  }
